@@ -1,0 +1,27 @@
+
+.Andrew {
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 31px;
+    letter-spacing: -1px;
+    word-spacing: 0px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: underline solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: capitalize;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    flex-flow: column wrap-reverse;
+    font-size: 21px;
+}
+
+.committees {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
